@@ -135,7 +135,7 @@ textarea {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1000;
+    z-index: 1200;
     transition: var(--transition);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
